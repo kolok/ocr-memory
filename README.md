@@ -1,3 +1,7 @@
+## Object
+
+This code is the result of the MOOC : "Réalisez une application web avec React.js" on OpenClassRoom
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
